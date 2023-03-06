@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+# <--PROJECT TITLE-->
 
 <a name="readme-top"></a>
 
@@ -19,10 +19,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![ADmyBRAND][madeby]][admybrand-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Known Vulnerabilities][vulnerabilities]][vul-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -31,23 +33,23 @@
 <div align="center">
       <p align="center"><--PROJECT LOGO HERE--></p>
 
-  <!-- <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
+  </a>
 
   <h3 align="center">ADmyBRAND - Project</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    <--Project Tagline-->!
     <br />
     <a href="https://github.com/Mohit-Panchasara/Readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mohit-Panchasara/Readme">View Demo</a>
+    <a href="https://github.com/Mohit-Panchasara/Readme">📌View Demo</a>
     ·
-    <a href="https://github.com/Mohit-Panchasara/Readme">Report Bug</a>
+    <a href="https://github.com/Mohit-Panchasara/Readme">🐞Report Bug</a>
     ·
-    <a href="https://github.com/Mohit-Panchasara/Readme">Request Feature</a>
+    <a href="https://github.com/Mohit-Panchasara/Readme">💡Request Feature</a>
   </p>
 </div>
 
@@ -81,7 +83,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## 📋About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -94,27 +96,53 @@ The goal of the project is to create ,deploy and query ADmyBRAND Ad-Exchange Sys
 - <--point2-->
 - <--point3-->
 
-<--BENEFITS AND FUTURE PLANNINGS (paragraph)-->
+## 🔥 Features
+
+- [x] super fast performance
+- [x] accessible (Keyboard/VoiceOver)
+- [x] responsive (mobile ~ desktops)
+- [x] SEO-friendly
+- [x] light & dark mode
+- [x] followed best practices...
 
 <!-- Use the `BLANK_README.md` to get started. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Resources
+### 📙Resources
 
 - <--Link1-->
 - <--Link2-->
 - <--Link3-->
 
-### Built With
+### 🛠️Built With
 
 Major Frameworks/Libraries used to power this project. You can find other add-ons/plugins in acknowledgement section.
 
 _<--Example Frameworks-->_
 
-[![Next][next.js]][next-url] [![React][react.js]][react-url] [![Vue][vue.js]][vue-url] [![Angular][angular.io]][angular-url] [![Bootstrap][bootstrap.com]][bootstrap-url] [![JQuery][jquery.com]][jquery-url] [![Svelte][svelte.dev]][svelte-url] [![Laravel][laravel.com]][laravel-url]
+- [![Next][next.js]][next-url]
+- [![React][react.js]][react-url]
+- [![Vue][vue.js]][vue-url]
+- [![Angular][angular.io]][angular-url]
+- [![Bootstrap][bootstrap.com]][bootstrap-url]
+- [![JQuery][jquery.com]][jquery-url]
+- [![Svelte][svelte.dev]][svelte-url]
+- [![Laravel][laravel.com]][laravel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 📁Project Structure
+
+```
+/
+├── images/
+│   ├── logo.png
+│   ├── new.svg
+│   └── screenshot.png
+├── README.md
+└── ...
+```
 
 <!-- GETTING STARTED -->
 
@@ -123,7 +151,7 @@ _<--Example Frameworks-->_
 <--Starting Description-->
 To get a local copy up and running follow these simple example steps.
 
-### C
+### 🔧Prerequisites
 
 <--All prerequisites to run project-->
 
@@ -132,7 +160,7 @@ To get a local copy up and running follow these simple example steps.
   npm install npm@latest -g
   ```
 
-### Commands
+### 🤖Commands
 
 | Command           | Action                                            |
 | :---------------- | :------------------------------------------------ |
@@ -143,7 +171,7 @@ To get a local copy up and running follow these simple example steps.
 | `npm run format`  | Format code with [Prettier](https://prettier.io/) |
 | `npm run clean`   | Remove `node_modules` and build output            |
 
-### Installation
+### ⚙️Installation
 
 _Follow the bellow steps to install and run project_
 
@@ -165,7 +193,7 @@ _Follow the bellow steps to install and run project_
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## 👨🏻‍💻Usage
 
 How to use the project and get inspired.
 <--Text/Images/GIFs/Screenshots-->
@@ -176,18 +204,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 
-## Roadmap
+## 📝Roadmap
 
-- [x] Create Open Organization
-- [x] Lisense Creation
-- [x] Project Resources Collection
-- [x] Adding Research Page
-- [ ] Add Additional Templates
-- [ ] Add "components" document to master branch
-- [ ] Multi-language Support
-  - [ ] Hindi
-  - [ ] Chinese
-  - [ ] Spanish
+- ✅ Create Open Organization
+- ✅ Lisense Creation
+- ✅ Project Resources Collection
+- ✅ Adding Research Page
+- 🔲 Add Additional Templates
+- 🔲 Add "components" document to master branch
+- 🔲 Multi-language Support
+  - 🔲 Hindi
+  - 🔲 Chinese
+  - 🔲 Spanish
 
 See the [open issues](https://github.com/<--Github-Repo-->/issues) for a full list of proposed features (and known issues).
 
@@ -195,7 +223,7 @@ See the [open issues](https://github.com/<--Github-Repo-->/issues) for a full li
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## 😎Contributing
 
 Showcase your amazing skills to contribute to this organizaiton. Any of the good contributions are **greatly appreciated** and **featured** on the contribution list.
 
@@ -212,7 +240,7 @@ Showcase your amazing skills to contribute to this organizaiton. Any of the good
 
 <!-- LICENSE -->
 
-## License
+## 📜License
 
 Distributed under the Apache License. See `LICENSE.txt` for more information.
 
@@ -220,19 +248,19 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+## ✨ Feedback & Suggestions
 
-Your Name - [@twitter](https://twitter.com) - email@example.com
+If you have any suggestions/feedback, you can contact me via [my email](mailto:contact@satnaing.dev). Alternatively, feel free to open an issue if you find bugs or want to request new features.
 
-Project Link: [https://github.com/ADmyBRAND/<--REPO-->](https://github.com)
+- Project Link: [https://github.com/ADmyBRAND/<--REPO-->](https://github.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+## 🧰Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+resources helpful and would like to give credit to.
 
 _<--Example Resources-->_
 
@@ -248,6 +276,10 @@ _<--Example Resources-->_
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[madeby]: https://img.shields.io/badge/Made%20By-ADmyBRAND-blue
+[admybrand-url]: https://us.admybrand.com/
+[vulnerabilities]: https://img.shields.io/badge/Vulnerabilities-0-green
+[vul-url]: https://github.com/gopherine/evmos-conploy/graphs/contributorsa
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/gopherine/evmos-conploy/graphs/contributorsa
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
