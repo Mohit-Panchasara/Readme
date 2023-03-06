@@ -58,6 +58,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#resources">Resources</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -65,6 +66,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#commands">Commands</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -128,7 +130,7 @@ _<--Example Frameworks-->_
 <--Starting Description-->
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### C
 
 <--All prerequisites to run project-->
 
@@ -264,7 +266,7 @@ _<--Example Resources-->_
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/gopherine/evmos-conploy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/
 [product-screenshot]: images/screenshot.png
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
