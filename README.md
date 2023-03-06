@@ -112,14 +112,7 @@ Major Frameworks/Libraries used to power this project. You can find other add-on
 
 _<--Example Frameworks-->_
 
-- [![Next][next.js]][next-url]
-- [![React][react.js]][react-url]
-- [![Vue][vue.js]][vue-url]
-- [![Angular][angular.io]][angular-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url]
-- [![Svelte][svelte.dev]][svelte-url]
-- [![Laravel][laravel.com]][laravel-url]
+[![Next][next.js]][next-url] [![React][react.js]][react-url] [![Vue][vue.js]][vue-url] [![Angular][angular.io]][angular-url] [![Bootstrap][bootstrap.com]][bootstrap-url] [![JQuery][jquery.com]][jquery-url] [![Svelte][svelte.dev]][svelte-url] [![Laravel][laravel.com]][laravel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
