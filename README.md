@@ -20,11 +20,13 @@
 -->
 
 [![ADmyBRAND][madeby]][admybrand-url]
+[![Known Vulnerabilities][vulnerabilities]][vul-url]
+<br />
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Known Vulnerabilities][vulnerabilities]][vul-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -76,14 +78,14 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#feedbarck-&-suggestions">Feedback & Suggestions</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 
-## 📋About The Project
+## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -96,7 +98,7 @@ The goal of the project is to create ,deploy and query ADmyBRAND Ad-Exchange Sys
 - <--point2-->
 - <--point3-->
 
-## 🔥 Features
+### 🔥 Features
 
 - [x] super fast performance
 - [x] accessible (Keyboard/VoiceOver)
